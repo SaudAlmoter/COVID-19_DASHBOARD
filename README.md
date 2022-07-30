@@ -11,4 +11,8 @@ The goal of this assignment is to develop a dashboard for displaying the progres
 
 <img width="510" alt="image" src="https://user-images.githubusercontent.com/89324546/181925407-1e1e3ce3-198e-4b26-9888-d4ce270ee865.png">
 
+
+
+
+### how to use
 you just need to adjust the location of the file then run the main.
